@@ -89,6 +89,11 @@ h2 {
   margin-top: 10px;
 }
 
+.post-heading {
+  font-family: 'Signika';
+  text-align: left;
+}
+
 .slideshow {
   background: #5a5a5a;
   height: 600px;
